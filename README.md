@@ -51,4 +51,3 @@ api_password = 'contrail123'	# User Password
 
 ##Author
 * Thomas Grimonet / Juniper Networks / [Twitter](https://www.twitter.com/titom73)
-* Khelil Sator / Juniper Networks
