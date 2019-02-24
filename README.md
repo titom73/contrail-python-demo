@@ -41,7 +41,7 @@ api_user = 'demo-python'		# Username configured to execute these scripts
 api_password = 'contrail123'	# User Password
 ```
 
-##Contributing
+## Contributing
 
 - Fork it
 - Create your feature branch (git checkout -b my-new-feature)
@@ -49,5 +49,5 @@ api_password = 'contrail123'	# User Password
 - Push to the branch (git push origin my-new-feature)
 - Create new Pull Request
 
-##Author
+## Author
 * Thomas Grimonet / Juniper Networks / [Twitter](https://www.twitter.com/titom73)
